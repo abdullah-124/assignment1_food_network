@@ -89,7 +89,7 @@
 .row {
     padding-top: 100px;
     display: flex;
-    margin: 20px 60px;
+    margin: 20px 80px;
 }
 
 .recipie_box {
@@ -117,6 +117,32 @@
     margin: 30px 20px;
 }
 
+.social {
+    box-shadow: 2px 2px 12px #525252;
+    margin: 100px 10%;
+    border-radius: 10px;
+}
+
+.social .socialName {
+    display: flex;
+    padding: 30px 0;
+    margin: 0 50px;
+}
+
+.social .text {
+    width: 30%;
+    margin: 10px 30px;
+    text-align: center;
+}
+
+.text h1 {
+    font-size: 50px;
+}
+
+.text p {
+    font-size: 14px;
+}
+
 .review {
     margin: 100px 20%;
 }
@@ -139,4 +165,19 @@
 .testimonial p {
     font-size: 30px;
     margin: 20px 60px;
+}
+
+footer {
+    margin-top: 100px;
+    background: #0B0D17;
+    padding: 100px 0;
+    text-align: center;
+}
+
+footer h1 {
+    color: #4B4B4D;
+}
+
+footer p {
+    color: #fff;
 }
