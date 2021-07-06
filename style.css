@@ -10,10 +10,6 @@
     font-family: 'Otomanopee One', sans-serif;
 }
 
-nav {
-    display: flex;
-}
-
 .header {
     display: flex;
     background-image: linear-gradient(#F1F0FE, #A5D4EE);
