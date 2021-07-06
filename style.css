@@ -181,6 +181,9 @@ ul a {
     box-shadow: 2px -2px 12px #333;
     border-radius: 8px;
     margin-top: 50px;
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(153, 0, 255), rgb(0, 132, 255));
+    border-image-slice: 1;
 }
 
 .testimonial img {
